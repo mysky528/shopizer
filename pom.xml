@@ -22,7 +22,7 @@
     <properties>
         <java.version>1.8</java.version>        
         <shopizer.version>2.0.5-SNAPSHOT</shopizer.version>
-        <shopizer.search.version>2.0.5-SNAPSHOT</shopizer.search.version>
+        <shopizer.search.version>2.3.0</shopizer.search.version>
         <shopizer-canadapost.version>2.0.5-SNAPSHOT</shopizer-canadapost.version>
 		<shopizer-shipping-distance.version>2.0.5-SNAPSHOT</shopizer-shipping-distance.version>	
         <jackson-version>2.7.4</jackson-version>
