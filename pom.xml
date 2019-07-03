@@ -25,7 +25,7 @@
         <shopizer.search.version>2.0.5-SNAPSHOT</shopizer.search.version>
         <shopizer-canadapost.version>2.0.5-SNAPSHOT</shopizer-canadapost.version>
 		<shopizer-shipping-distance.version>2.0.5-SNAPSHOT</shopizer-shipping-distance.version>	
-        <jackson-version>2.7.4</jackson-version>
+        <jackson-version>2.9.9.1</jackson-version>
 
         <commons-collections4.version>4.0</commons-collections4.version>
         <commons-validator.version>1.5.1</commons-validator.version>
@@ -37,7 +37,7 @@
 		<c3p0-version>0.9.5.2</c3p0-version>
 		<org.elasticsearch-version>2.4.1</org.elasticsearch-version>
 		<infinispan.version>6.0.2.Final</infinispan.version>
-		<mysql-jdbc-version>5.1.40</mysql-jdbc-version>
+		<mysql-jdbc-version>8.0.13</mysql-jdbc-version>
 		<simple-json-version>1.1.1</simple-json-version>
     </properties>
 
