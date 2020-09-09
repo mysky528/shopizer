@@ -28,7 +28,7 @@
         <jackson-version>2.7.4</jackson-version>
 
         <commons-collections4.version>4.0</commons-collections4.version>
-        <commons-validator.version>1.5.1</commons-validator.version>
+        <commons-validator.version>1.7</commons-validator.version>
         <org.apache.httpcomponent.version>4.5.2</org.apache.httpcomponent.version>
         <javax.inject.version>1</javax.inject.version>
 		<javax.el.version>2.2.4</javax.el.version>
