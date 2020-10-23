@@ -13,7 +13,7 @@
 
 		<jackson-version>2.7.3</jackson-version>
 		<gson.version>2.6.2</gson.version>
-		<guava.version>19.0</guava.version>
+		<guava.version>r03</guava.version>
 		<junit.version>4.12</junit.version>
 		<httpcore.version>4.4.4</httpcore.version>
         <httpclient.version>4.5.2</httpclient.version>
@@ -29,7 +29,7 @@
 		
 
 		<org.elasticsearch-version>2.4.1</org.elasticsearch-version>
-		<io.searchbox.jest-version>2.0.3</io.searchbox.jest-version>
+		<io.searchbox.jest-version>2.4.0</io.searchbox.jest-version>
         
         
         
